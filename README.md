@@ -15,7 +15,7 @@ The disparity map that created at the output.
   <img src="Disparity.png"> 
 </p>
 
-## Output Image Without Occlusion
+## Output Image (No Occlusion)
 The disparity map without occluded pixels.
 
 <p align="center">
