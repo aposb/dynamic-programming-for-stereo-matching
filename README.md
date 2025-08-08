@@ -1,5 +1,5 @@
 # Dynamic Programming for Stereo Matching
-A Matlab implementation of Dynamic Programming Algorithm for stereo matching. It uses the "SAD" (Sum of Absolute Differences) similarity metric.
+A Matlab implementation of Dynamic Programming Algorithm for stereo matching. It provides vertical smoothness by trying to keep the current path close to the former path using an additional discontinuity cost.
 
 ## Input Image
 The Tsukuba stereo image that used as input.
