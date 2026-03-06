@@ -1,4 +1,9 @@
 # Dynamic Programming for Stereo Matching
+
+> **Repository Moved**  
+> This project has been merged into [Stereo Matching Algorithms in MATLAB and Python](https://github.com/aposb/stereo-matching-algorithms).  
+> The new repository contains the latest code, documentation, and updates.
+
 A Matlab implementation of Dynamic Programming Algorithm for stereo matching. It provides vertical smoothness by trying to keep the current path close to the former path using an additional discontinuity cost.
 
 ## Input Image
